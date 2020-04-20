@@ -1,0 +1,11 @@
+C:\HomeWork\HW_14\obj\Debug\netcoreapp3.1\HW-14.csprojAssemblyReference.cache
+C:\HomeWork\HW_14\obj\Debug\netcoreapp3.1\HW-14.AssemblyInfoInputs.cache
+C:\HomeWork\HW_14\obj\Debug\netcoreapp3.1\HW-14.AssemblyInfo.cs
+C:\HomeWork\HW_14\bin\Debug\netcoreapp3.1\HW-14.exe
+C:\HomeWork\HW_14\bin\Debug\netcoreapp3.1\HW-14.deps.json
+C:\HomeWork\HW_14\bin\Debug\netcoreapp3.1\HW-14.runtimeconfig.json
+C:\HomeWork\HW_14\bin\Debug\netcoreapp3.1\HW-14.runtimeconfig.dev.json
+C:\HomeWork\HW_14\bin\Debug\netcoreapp3.1\HW-14.dll
+C:\HomeWork\HW_14\bin\Debug\netcoreapp3.1\HW-14.pdb
+C:\HomeWork\HW_14\obj\Debug\netcoreapp3.1\HW-14.dll
+C:\HomeWork\HW_14\obj\Debug\netcoreapp3.1\HW-14.pdb
